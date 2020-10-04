@@ -33,10 +33,23 @@ Exercixe 3:
 
 TD00 GIT
 
+Exercice 1)
+
 2) exemple de fichiers qui ne font pas parie des sources de projet : target ..
 
 5)  le terminal affiche la modification effectuée au niveau de la classe PrimCollection. 
     Il afficher la différence entre le projet initial et le projet aprèsla modification.(la différence entre les 2 commit)
 
 8) le HASH du 1er commit : a64906b19800a88498fd86c0256ec3bb4e625b9d
+
+exercice 2)
+
+3)  gitk represente le master qui est le depot git du disque dur relié avec le depot git de git hub , chaque modification du master va entrainer une modification dans le git hub
+
+5) on a mise à jour du projet
+
+6) le fichier REPONSES.txt contient l'ensemble des mofdification effectuées.
+
+
+
 

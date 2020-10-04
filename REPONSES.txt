@@ -55,6 +55,13 @@ exercice 2)
 7) on aura un conflit
 
 
+Exercice 3)
+
+2) les tests sont exécutés avec 0 erreurs. 
+   lorsqu'on remplace assertTrue(true) en assertTrue (false), on aura une erreur.
+
+-> la methode asserttrue permet de Vérifier que la valeur fournie en paramètre est vraie.
+
 
 
 

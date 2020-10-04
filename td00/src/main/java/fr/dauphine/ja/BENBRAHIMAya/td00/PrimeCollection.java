@@ -44,7 +44,7 @@ public class PrimeCollection
     {
     	PrimeCollection pc= new PrimeCollection();
     	
-    	pc.initRandom(100,1000);
+    	pc.initRandom(1000,2000);
     	 pc.printPrimes();
     }
     

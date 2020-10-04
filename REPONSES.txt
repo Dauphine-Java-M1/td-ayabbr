@@ -1,5 +1,7 @@
 Aya BEN BRAHIM
 
+TD00 MAVEN
+
 Exercice 1 :
 
 4) version Maven : 3.6.3
@@ -28,3 +30,13 @@ Exercixe 3:
    Lorsqu'on selectionne le champs toto et on tape Alt + Shift + R : on aura la possibilité de modifier le nom de du champs 
 
 8) Lorsqu'on clique sur String en maintenant la touche Ctrl : on peut accéder à l'implémentation ou la déclation de la classe String
+
+TD00 GIT
+
+2) exemple de fichiers qui ne font pas parie des sources de projet : target ..
+
+5)  le terminal affiche la modification effectuée au niveau de la classe PrimCollection. 
+    Il afficher la différence entre le projet initial et le projet aprèsla modification.(la différence entre les 2 commit)
+
+8) le HASH du 1er commit : a64906b19800a88498fd86c0256ec3bb4e625b9d
+

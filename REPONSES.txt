@@ -6,6 +6,8 @@ Exercice 1 :
 
 4) version Maven : 3.6.3
 
+5) Le groupId permet de définir le groupe du projet, et artifactId permet de définir le projet au sein du groupe
+
 6) le répertoire target contient un répertoire de classes
 
 8) le class path sert à indiquer où se trouvent les classes dans un programme Java : C'est à dire définir le chemin d'accès au répertoire où se trouvent les classes et packages Java.
@@ -46,9 +48,12 @@ exercice 2)
 
 3)  gitk represente le master qui est le depot git du disque dur relié avec le depot git de git hub , chaque modification du master va entrainer une modification dans le git hub
 
-5) on a mise à jour du projet
+5) erreur
 
 6) le fichier REPONSES.txt contient l'ensemble des mofdification effectuées.
+
+7) on aura un conflit
+
 
 
 

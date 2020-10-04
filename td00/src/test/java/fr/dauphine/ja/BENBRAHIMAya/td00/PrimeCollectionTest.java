@@ -27,12 +27,36 @@ public class PrimeCollectionTest
     {
         return new TestSuite( PrimeCollectionTest.class );
     }
+   
 
     /**
      * Rigourous Test :-)
      */
+    
+    private void testTwoIsPrime() {
+		// TODO Auto-generated method stub
+		assertTrue(PrimeCollection.isPrime(2));
+	}
+
+	private void test0IsPrime() {
+		// TODO Auto-generated method stub
+		assertTrue(PrimeCollection.isPrime(0));
+	}
+	private void test9IsNotPrime() {
+		// TODO Auto-generated method stub
+		assertTrue(!PrimeCollection.isPrime(9));
+	}
+	
     public void testPrimeCollection()
     {
         assertTrue( true );
+       
+        test0IsPrime();
+        testTwoIsPrime();
+        test9IsNotPrime();
+        
     }
+
+	
+    
 }

@@ -25,9 +25,9 @@ public class PrimeCollection
 		}
 	}
 	
-		private boolean isPrime(int p) {
-			for(int i=2 ; i<=p/2;i++) {
-				if (p%2==0) return false;
+		 static boolean isPrime(int p) {
+			for(int i=2 ; i<=Math.sqrt(p);i++) {
+				if (p%i==0) return false;
 			}
 			return true;
 		}

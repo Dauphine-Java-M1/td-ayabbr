@@ -4,7 +4,7 @@ package fr.dauphine.ja.BENBRAHIMAya.td00;
 
 public class classApp {
 	 int toto;
-//	String t ;
+ String t ;
 	
 	@Override
 	public String toString() {

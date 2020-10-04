@@ -1,0 +1,30 @@
+Aya BEN BRAHIM
+
+Exercice 1 :
+
+4) version Maven : 3.6.3
+
+6) le répertoire target contient un répertoire de classes
+
+8) le class path sert à indiquer où se trouvent les classes dans un programme Java : C'est à dire définir le chemin d'accès au répertoire où se trouvent les classes et packages Java.
+
+13)  cette propriéte sert à configurer la version de java qu'on veut utiliser. On doit lui donner la valeur 1.7 (même valeur que maven.compiler.source)
+
+Exercice 2 :
+1) Le fichier JAR n'est pas exécutable car il lui manque un fichier MANIFEST.
+
+Exercixe 3:
+
+3) Lorsqu'on tape sysout + Ctrl + espace , on a génération de la méthode System.out.println("");
+
+4) Lorsqu'on tape toStr + Ctrl + espace , on a génération de la méthode toString
+
+5) Lorsqu'on tape main + Ctrl + espace , on a génération de la méthode main
+
+6) Lorsqu'on tape get + Ctrl + espace , on a génération de getter du champs toto -> génération de la méthode getToto()
+   Lorsqu'on tape set + Ctrl + espace , on a génération de setter du champs toto -> génération de la méthode setToto(int toto)
+
+7) Lorsqu'on selectionne le nom de la classe et on tape Alt + Shift + R : on aura la possibilité de modifier le nom de la classe
+   Lorsqu'on selectionne le champs toto et on tape Alt + Shift + R : on aura la possibilité de modifier le nom de du champs 
+
+8) Lorsqu'on clique sur String en maintenant la touche Ctrl : on peut accéder à l'implémentation ou la déclation de la classe String
